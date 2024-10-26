@@ -1,9 +1,5 @@
 ## Hey there! I'm Amr.
 
-### 🛠 Tech Stack
-
-There's no point in listing dozens of technologies I used before, since I ususally just learn new techs when I need them or when I want to experiment. I do web dev especially backend. I am into low-level systems programming and database development nowadays.
-
 ### 📖 Books I enjoyed
 
 - **Database Design & Implemenation (2ed)**
@@ -29,15 +25,6 @@ There's no point in listing dozens of technologies I used before, since I ususal
   </li>
   <li>
     <a href="mailto:amr.osama.elmohamady@gmail.com">Email</a>
-  </li>
-  <li>
-    <a href="https://amrelmohamady.hashnode.dev/" target="_blank" >Blog & Personal site (hashnode)</a>
-  </li>
-  <li>
-    <a href="https://dev.to/amrelmohamady" target="_blank" >Blog (dev.to)</a>
-  </li>
-  <li>
-    <a href="https://www.facebook.com/amr.elmohamady.1426/" target="_blank" >Facebook</a>
   </li>
 </ul>
 </p>
