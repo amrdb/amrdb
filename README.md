@@ -1,6 +1,6 @@
-## Hey there! I'm Amr.
+## Hey there! I'm Amr and I am looking for a software engineering internship!
 
-### 📖 Books I enjoyed
+### 📖 Library
 
 - **Database Design & Implemenation (2ed)**
   - I am currently reading it and implementing tasks in [SimpleDB](https://github.com/amrelmohamady/simpledb) educational database in Java.
