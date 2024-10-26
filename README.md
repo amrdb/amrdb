@@ -2,8 +2,10 @@
 
 ### 📖 Library
 
-- **Database Design & Implemenation (2ed)**
+- **Database Design & Implemenation**
   - I am currently reading it and implementing tasks in [SimpleDB](https://github.com/amrelmohamady/simpledb) educational database in Java.
+- **Learning Go**
+  - I am currently reading it while learning Go!
 - **Node.js Design Patterns**
   - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns &     Advanced Node.js topics.
 - **System Design Interview**
