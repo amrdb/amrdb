@@ -6,6 +6,8 @@ There's no point in listing dozens of technologies I used before, since I ususal
 
 ### 📖 Books I enjoyed
 
+- **Database Design & Implemenation (2ed)**
+  - I am currently reading it and implementing tasks in [SimpleDB](https://github.com/amrelmohamady/simpledb) educational database in Java.
 - **Node.js Design Patterns**
   - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns &     Advanced Node.js topics.
 - **System Design Interview**
@@ -39,8 +41,3 @@ There's no point in listing dozens of technologies I used before, since I ususal
   </li>
 </ul>
 </p>
-
-### 📈 Some stats
-<a href="https://dev.to/amrelmohamady" target="_blank">
-  <img src="https://amrelmohamady-devto-stats.cyclic.app/" alt="Amr's Dev.to Blog stats (if not working, then dev.to changed the layout)" />
-</a>
