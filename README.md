@@ -1,4 +1,4 @@
-## Hey there! I'm Amr and I am looking for a software engineering internship!
+## Hey there! I'm Amr!
 
 ### 📖 Library
 
