@@ -3,11 +3,11 @@
 ### 📖 Library
 
 - **Operating Systems: Three Easy Pieces (OSTEP)**
-  - I am currently reading it with [Akshat's book club](https://notes.akjn.dev/notes/ostep/).
+  - I am currently reading it with [Akshat's book club](https://notes.akjn.dev/notes/ostep/) but I have fallen behind after reading the first part of the book due to my internship at Activepieces and university.
 - **Database Design & Implemenation**
-  - I am currently reading it with some of the database industry experts in the [Software Internals book club](https://eatonphil.com/2024-database-design-and-implementation.html). Also, I am implementing tasks in [SimpleDB](https://github.com/amrelmohamady/simpledb) educational database in Java.
+  - I am currently reading it with some of the database industry experts in the [Software Internals book club](https://eatonphil.com/2024-database-design-and-implementation.html). Also, I am implementing tasks in [SimpleDB](https://github.com/amrelmohamady/simpledb) educational database in Java. I have fallen behind after more than half of the book. Soon, I will continue reading with the [Database Internals book club](https://discord.gg/tuWRBUyt).
 - **Learning Go**
-  - I am almost done with it and I think I am in love with Go!
+  - I was learning Go from this book.
 - **Node.js Design Patterns**
   - A Node.js book about design patterns, writing modules, asynchronous programming, Scalability, Architectural Patterns &     Advanced Node.js topics. I read ths book when I was starting out my backend development learning journey. IMO, this is the goto source to learn Node.js and gain practical knowledge.
 - **System Design Interview**
